@@ -1,5 +1,4 @@
-# vpn_server_install
-VPN server install script for Openconnect
+This is a documentation on VPN server install script for Openconnect 
 
 # Install OpenConnect Server:
 ## Update Your System:
